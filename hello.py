@@ -1,5 +1,6 @@
 //For command line git_ex
-//Local repository modification
+//GitHub modification : First
+//Local repository modification : Second
 println("Hello World")
 println("Hello pyo sun young")
 println("Hello your name")
